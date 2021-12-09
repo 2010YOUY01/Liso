@@ -1,0 +1,4 @@
+%compile_commands.json
+%c -std=c11
+%h %hpp --include=Global.h
+-Iinclude
